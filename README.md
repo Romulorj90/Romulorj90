@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Rômulo Cavalcante Amorim
 
-**`Desenvolvedora FullStack Python`**
+**`Desenvolvedor FullStack Python`**
 
 Me chamo Rômulo Cavalcante Amorim, tenho 34 anos e sou natural do Rio de Janeiro. Concluí minha graduação pela Estácio de Sá, no curso Analise e desenvolvimento de sistemas. Atualmente, estou cursando Desenvolvimento Full stack Python na EBAC. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu Instagram "@romulocavalcante" com o perfil chamado "[Romulocavalcante](https://www.instagram.com/romulocavalcante/)", onde posto o meu dia a dia e coisas que podem ajudar o proximo como projetos, e também através do Instagram. Outro canal que tenho começado a usar é o meu Linkedin "Romulo Cavalcante (https://www.linkedin.com/in/r%C3%B4mulo-cavalcante-5914a270/ )".
 
